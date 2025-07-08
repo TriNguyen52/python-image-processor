@@ -46,7 +46,3 @@ Visit https://www.tringuyen.work/Blogs/2dae53ee-df66-4aed-9305-d1e7fbd0a0ea
 - Maximum file size: 10MB
 - Images larger than 800px are automatically resized
 - There will be a 30 seconds wait time to activate my Render server
-
-## License
-
-This image processing API is part of my portfolio project and follows the same license terms.
